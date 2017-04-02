@@ -1,4 +1,4 @@
 # hello-world
 my first repository
 
-you asshole , I'm learning it .
+I'm learning it .
